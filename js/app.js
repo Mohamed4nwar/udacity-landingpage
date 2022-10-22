@@ -40,7 +40,7 @@ Hola !
 can i just skip on my own to the fun part?
 rechecking my mistakes 
 1 suggestion done,
-2,3 names are * 2 so this is mistake 2 and 6, anw done "just for the '😝' hehe" just kidding i am just bored  HAHA!,
+2,3 names are * 2 so this is mistake 2 and 6,
 4 click event smooth not done yet,
 5 getBoundingClientRect done,
 6 your-active-class not done.
